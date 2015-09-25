@@ -178,13 +178,13 @@
         keyboardShortcuts: true
       });
       jPanelMenu.on();
-
+/*
       $(document).on('click', jPanelMenu.menu + ' li a', function(e) {
         if (jPanelMenu.isOpen() && $(e.target).attr('href').substring(0, 1) == '#') {
           jPanelMenu.close();
         }
       });
-
+*/
       $(document).on('touchend', '.menu-trigger', function(e) {
         jPanelMenu.triggerMenu();
         e.preventDefault();
@@ -213,7 +213,7 @@
         $('.search-trigger .icon-search').removeClass('icon-search').addClass('icon-remove');
       }
     })
-
+/*
     $(window).resize(function() {
       var winWidth = $(window).width();
       if (winWidth > 767) {
@@ -223,7 +223,7 @@
         $('.icon-remove').removeClass('icon-remove').addClass('icon-search');
       }
     });
-
+*/
 
     /*----------------------------------------------------*/
     /*	Revolution Slider
