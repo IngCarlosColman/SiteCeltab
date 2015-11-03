@@ -2672,6 +2672,7 @@ input[type="submit"]:hover {
   margin-right: 4px;
 }
 
+
 .social-icons li a {
   width: 42px;
   height: 42px;
@@ -2688,6 +2689,8 @@ input[type="submit"]:hover {
 }
 
 
+
+
 /* Common Styles */
 .social-icons li a i {
   -webkit-transition: all 0.2s ease-in-out;
@@ -2699,15 +2702,19 @@ input[type="submit"]:hover {
   z-index: 20;
 }
 
+
 .social-icons li a:hover,
 .social-icons li a i {
   color: #fff;
 }
 
+
+
 .social-icons li a i {
   top: -30px;
   opacity:0;
 }
+
 
 .social-icons li a:hover i {
   top: 0;
@@ -2922,6 +2929,425 @@ input[type="submit"]:hover {
 .instagram:hover:before { top: 30px; opacity: 0; }
 .instagram:hover { background-color: #3f6f94; }
 
+
+/*my social icons...*/
+.mysocial-icons li {
+  display: inline;
+  float: left;
+  margin-right: 4px;
+}
+.mysocial-icons li a {
+  width: 55px;
+  height: 55px;
+  display: inline-block;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  position: relative;
+  overflow: hidden;
+}
+.mysocial-icons li a i {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  position: absolute;
+  z-index: 20;
+}
+.mysocial-icons li a:hover,
+.mysocial-icons li a i {
+  color: #fff;
+}
+.mysocial-icons li a i {
+  top: -30px;
+  opacity:0;
+}
+.mysocial-icons li a:hover i {
+  top: 0;
+  opacity: 1;
+}
+
+.opensource:before,
+.openhardware:before,
+.rubyonrails:before,
+.ruby:before,
+.php:before,
+.cpp:before,
+.c:before,
+.javascript:before,
+.html5:before,
+.css3:before,
+.java:before,
+.angular:before,
+.nodejs:before,
+.jquery:before,
+.jqueryui:before,
+.python:before,
+.mongodb:before ,
+.mysql:before ,
+.postgres:before,
+.json:before,
+.linux:before ,
+.samba:before ,
+.qt:before,
+.raspberrypi:before ,
+.evernote:before ,
+.h2db:before,
+.play:before,
+.hibernate:before,
+.maven:before,
+.jboss:before,
+.tomcat:before,
+.bananapi:before ,
+.boostrap:before,
+.shellscript:before,
+.groovy:before ,
+.drupal:before ,
+.cordova:before ,
+.arduino:before ,
+.android:before,
+.parallella:before,
+.git:before,
+.fgithub:before,
+.mantis:before,
+.subversion:before,
+.scala:before,
+.backbonejs:before,
+.requirejs:before,
+.django:before,
+.codeignater:before ,
+.joomla:before,
+.spring:before ,
+.zen:before,
+.wordpress:before,
+.simfony:before,
+.magento:before ,
+.perl:before ,
+.gdrive:before,
+.dropbox:before ,
+.owncloud:before ,
+.apacheant:before{
+  font-family: "Flaticon";
+  font-size: 46px;
+  line-height: 15px;
+  color: #a0a0a0;
+  -webkit-transition: all 0.15s ease-in-out;
+  -moz-transition: all 0.15s ease-in-out;
+  -o-transition: all 0.15s ease-in-out;
+  -ms-transition: all 0.15s ease-in-out;
+  transition: all 0.15s ease-in-out;
+  position: absolute;
+  z-index: 0;50
+}
+
+
+/* Icon Styles */
+
+
+.opensource i, .opensource:before { margin: 24px 0 0 6px; }
+.opensource:before { content: "\61"; top: 0; opacity:1; }
+.opensource:hover:before { top: 30px; opacity: 0; }
+.opensource:hover { background-color: #3bc1ed; }
+
+.openhardware i, .openhardware:before { margin: 23px 0 0 6px; }
+.openhardware:before { content: "\62"; top: 0; opacity:1; }
+.openhardware:hover:before { top: 30px; opacity: 0; }
+.openhardware:hover { background-color: #ef5a92; }
+
+.rubyonrails i, .rubyonrails:before { margin: 25px 0 3px 6px; }
+.rubyonrails:before { content: "\63"; top: 0; opacity:1; }
+.rubyonrails:hover:before { top: 30px; opacity: 0; }
+.rubyonrails:hover { background-color: #4a6d9d; }
+
+.ruby i, .ruby:before { margin: 25px 0 0 5px; }
+.ruby:before { content: "\64"; top: 0; opacity:1; }
+.ruby:hover:before { top: 30px; opacity: 0; }
+.ruby:hover { background-color: #0b7bb5; }
+
+.php i, .php:before { margin: 23px 0 0 5px; }
+.php:before { content: "\65"; top: 0; opacity:1; }
+.php:hover:before { top: 30px; opacity: 0; }
+.php:hover { background-color: #3274d1; }
+
+.cpp i, .cpp:before { margin: 24px 0 0 5px; }
+.cpp:before { content: "\66"; top: 0; opacity:1; }
+.cpp:hover:before { top: 30px; opacity: 0; }
+.cpp:hover { background-color: #2e689a; }
+
+.c i, .c:before { margin: 24px 0 0 5px; }
+.c:before { content: "\67"; top: 0; opacity:1; }
+.c:hover:before { top: 30px; opacity: 0; }
+.c:hover { background-color: #d53824; }
+
+.javascript i, .javascript:before { margin: 24px 0 0 5px; }
+.javascript:before { content: "\68"; top: 0; opacity:1; }
+.javascript:hover:before { top: 30px; opacity: 0; }
+.javascript:hover { background-color: #eb4924; }
+
+.html5 i, .html5:before { margin: 25px 0 0 5px; }
+.html5:before { content: "\69"; top: 0; opacity:1; }
+.html5:hover:before { top: 30px; opacity: 0; }
+.html5:hover { background-color: #cb1f25; }
+
+.css3 i, .css3:before { margin: 25px 0 0 5px; }
+.css3:before { content: "\6a"; top: 0; opacity:1; }
+.css3:hover:before { top: 30px; opacity: 0; }
+.css3:hover { background-color: #40833e; }
+
+.java i, .java:before { margin: 25px 0 0 5px; }
+.java:before { content: "\6b"; top: 0; opacity:1; }
+.java:hover:before { top: 30px; opacity: 0; }
+.java:hover { background-color: #205685; }
+
+.angular i, .angular:before { margin: 25px 0 0 6px; }
+.angular:before { content: "\6c"; top: 0; opacity:1; }
+.angular:hover:before { top: 30px; opacity: 0; }
+.angular:hover { background-color: #6ca405; }
+
+.nodejs i, .nodejs:before { margin: 25px 0 0 5px; }
+.nodejs:before { content: "\6d"; top: 0; opacity:1; }
+.nodejs:hover:before { top: 30px; opacity: 0; }
+.nodejs:hover { background-color: #404040; }
+
+.jquery i, .jquery:before { margin: 25px 0 0 5px; }
+.jquery:before { content: "\6e"; top: 0; opacity:1; }
+.jquery:hover:before { top: 30px; opacity: 0; }
+.jquery:hover { background-color: #c0c0c0; }
+
+.jqueryui i, .jqueryui:before { margin: 25px 0 0 5px;}
+.jqueryui:before { content: "\6f"; top: 0; opacity:1; }
+.jqueryui:hover:before { top: 30px; opacity: 0; }
+.jqueryui:hover { background-color: #ff6501; }
+
+.python i, .python:before { margin: 25px 0 0 5px; }
+.python:before { content: "\70"; top: 0; opacity:1; }
+.python:hover:before { top: 30px; opacity: 0; }
+.python:hover { background-color: #ef5a92; }
+
+.mongodb i, .mongodb:before { margin: 25px 0 0 5px; }
+.mongodb:before { content: "\71"; top: 0; opacity:1; }
+.mongodb:hover:before { top: 30px; opacity: 0; }
+.mongodb:hover { background-color: #6bb130; }
+
+.mysql i, .mysql:before { margin: 25px 0 0 5px; }
+.mysql:before { content: "\72"; top: 0; opacity:1; }
+.mysql:hover:before { top: 30px; opacity: 0; }
+.mysql:hover { background-color: #136dd5; }
+
+.json i, .json:before { margin: 25px 0 0 5px;}
+.json:before { content: "\74"; top: 0; opacity:1; }
+.json:hover:before { top: 30px; opacity: 0; }
+.json:hover { background-color: #fe8f00; }
+
+.postgres i, .postgres:before { margin: 25px 0 0 5px; }
+.postgres:before { content: "\73"; top: 0; opacity:1; }
+.postgres:hover:before { top: 30px; opacity: 0; }
+.postgres:hover { background-color: #bf2f29; }
+
+.samba i, .samba:before { margin: 25px 0 0 5px; }
+.samba:before { content: "\76"; top: 0; opacity:1; }
+.samba:hover:before { top: 30px; opacity: 0; }
+.samba:hover { background-color: #4c8ab0; }
+
+.linux i, .linux:before { margin: 25px 0 0 5px; }
+.linux:before { content: "\75"; top: 0; opacity:1; }
+.linux:hover:before { top: 30px; opacity: 0; }
+.linux:hover { background-color: #036568; }
+
+.qt i, .qt:before { margin: 25px 0 0 5px; }
+.qt:before { content: "\77"; top: 0; opacity:1; }
+.qt:hover:before { top: 30px; opacity: 0; }
+.qt:hover { background-color: #9251a2; }
+
+.raspberrypi i, .raspberrypi:before { margin: 25px 0 0 5px; }
+.raspberrypi:before { content: "\78"; top: 0; opacity:1; }
+.raspberrypi:hover:before { top: 30px; opacity: 0; }
+.raspberrypi:hover { background-color: #2f3842; }
+
+.evernote i, .evernote:before { margin: 25px 0 0 5px; }
+.evernote:before { content: "\79"; top: 0; opacity:1; }
+.evernote:hover:before { top: 30px; opacity: 0; }
+.evernote:hover { background-color: #383838; }
+
+.h2db i, .h2db:before { margin: 25px 0 0 5px; }
+.h2db:before { content: "\7a"; top: 0; opacity:1; }
+.h2db:hover:before { top: 30px; opacity: 0; }
+.h2db:hover { background-color: #2c92dd; }
+
+.play i, .play:before { margin: 25px 0 0 5px; }
+.play:before { content: "\41"; top: 0; opacity:1; }
+.play:hover:before { top: 30px; opacity: 0; }
+.play:hover { background-color: #5c7381; }
+
+.hibernate i, .hibernate:before { margin: 17px 0 0 5px; }
+.hibernate:before { content: "\42"; top: 0; opacity:1; }
+.hibernate:hover:before { top: 30px; opacity: 0; }
+.hibernate:hover { background-color: #d21309; }
+
+.maven i, .maven:before { margin: 25px 0 0 5px; }
+.maven:before { content: "\43"; top: 0; opacity:1; }
+.maven:hover:before { top: 30px; opacity: 0; }
+.maven:hover { background-color: #3d658d; }
+
+.jboss i, .jboss:before { margin: 25px 0 0 5px; }
+.jboss:before { content: "\44"; top: 0; opacity:1; }
+.jboss:hover:before { top: 30px; opacity: 0; }
+.jboss:hover { background-color: #383838; }
+
+.tomcat i, .tomcat:before { margin: 25px 0 0 5px; }
+.tomcat:before { content: "\45"; top: 0; opacity:1; }
+.tomcat:hover:before { top: 30px; opacity: 0; }
+.tomcat:hover { background-color: #3f6f94; }
+
+.bananapi i, .bananapi:before { margin: 25px 0 0 5px; }
+.bananapi:before { content: "\46"; top: 0; opacity:1; }
+.bananapi:hover:before { top: 30px; opacity: 0; }
+.bananapi:hover { background-color: #3bc1ed; }
+
+.boostrap i, .boostrap:before { margin: 25px 0 0 5px; }
+.boostrap:before { content: "\47"; top: 0; opacity:1; }
+.boostrap:hover:before { top: 30px; opacity: 0; }
+.boostrap:hover { background-color: #ef5a92; }
+
+.shellscript i, .shellscript:before { margin: 25px 0 0 5px; }
+.shellscript:before { content: "\48"; top: 0; opacity:1; }
+.shellscript:hover:before { top: 30px; opacity: 0; }
+.shellscript:hover { background-color: #4a6d9d; }
+
+.groovy i, .groovy:before { margin: 25px 0 0 5px; }
+.groovy:before { content: "\49"; top: 0; opacity:1; }
+.groovy:hover:before { top: 30px; opacity: 0; }
+.groovy:hover { background-color: #0b7bb5; }
+
+.drupal i, .drupal:before { margin: 25px 0 0 5px; }
+.drupal:before { content: "\4a"; top: 0; opacity:1; }
+.drupal:hover:before { top: 30px; opacity: 0; }
+.drupal:hover { background-color: #3274d1; }
+
+.cordova i, .cordova:before { margin: 25px 0 0 5px; }
+.cordova:before { content: "\4b"; top: 0; opacity:1; }
+.cordova:hover:before { top: 30px; opacity: 0; }
+.cordova:hover { background-color: #2e689a; }
+
+.arduino i, .arduino:before { margin: 25px 0 0 5px; }
+.arduino:before { content: "\4c"; top: 0; opacity:1; }
+.arduino:hover:before { top: 30px; opacity: 0; }
+.arduino:hover { background-color: #d53824; }
+
+.android i, .android:before { margin: 25px 0 0 6px; }
+.android:before { content: "\4d"; top: 0; opacity:1; }
+.android:hover:before { top: 30px; opacity: 0; }
+.android:hover { background-color: #eb4924; }
+
+.parallella i, .parallella:before { margin: 25px 0 0 5px; }
+.parallella:before { content: "\4e"; top: 0; opacity:1; }
+.parallella:hover:before { top: 30px; opacity: 0; }
+.parallella:hover { background-color: #444; }
+
+.git i, .git:before { margin: 25px 0 0 5px; }
+.git:before { content: "\4f"; top: 0; opacity:1; }
+.git:hover:before { top: 30px; opacity: 0; }
+.git:hover { background-color: #cb1f25; }
+
+.fgithub i, .fgithub:before { margin: 25px 0 0 5px; }
+.fgithub:before { content: "\50"; top: 0; opacity:1; }
+.fgithub:hover:before { top: 30px; opacity: 0; }
+.fgithub:hover { background-color: #40833e; }
+
+.mantis i, .mantis:before { margin: 25px 0 0 5px; }
+.mantis:before { content: "\51"; top: 0; opacity:1; }
+.mantis:hover:before { top: 30px; opacity: 0; }
+.mantis:hover { background-color: #205685; }
+
+.subversion i, .subversion:before { margin: 25px 0 0 6px; }
+.subversion:before { content: "\52"; top: 0; opacity:1; }
+.subversion:hover:before { top: 30px; opacity: 0; }
+.subversion:hover { background-color: #6ca405; }
+
+.scala i, .scala:before { margin: 25px 0 0 5px; }
+.scala:before { content: "\53"; top: 0; opacity:1; }
+.scala:hover:before { top: 30px; opacity: 0; }
+.scala:hover { background-color: #404040; }
+
+.backbonejs i, .backbonejs:before { margin: 25px 0 0 5px; }
+.backbonejs:before { content: "\54"; top: 0; opacity:1; }
+.backbonejs:hover:before { top: 30px; opacity: 0; }
+.backbonejs:hover { background-color: #c0c0c0; }
+
+.requirejs i, .requirejs:before { margin: 25px 0 0 5px; }
+.requirejs:before { content: "\55"; top: 0; opacity:1; }
+.requirejs:hover:before { top: 30px; opacity: 0; }
+.requirejs:hover { background-color: #ff6501; }
+
+.django i, .django:before { margin: 25px 0 0 4px; }
+.django:before { content: "\56"; top: 0; opacity:1; }
+.django:hover:before { top: 30px; opacity: 0; }
+.django:hover { background-color: #ef5a92; }
+
+.codeignater i, .codeignater:before { margin: 25px 0 0 5px; }
+.codeignater:before { content: "\57"; top: 0; opacity:1; }
+.codeignater:hover:before { top: 30px; opacity: 0; }
+.codeignater:hover { background-color: #6bb130; }
+
+.joomla i, .joomla:before { margin: 25px 0 0 5px; }
+.joomla:before { content: "\58"; top: 0; opacity:1; }
+.joomla:hover:before { top: 30px; opacity: 0; }
+.joomla:hover { background-color: #136dd5; }
+
+.spring i, .spring:before { margin: 25px 0 0 5px; }
+.spring:before { content: "\59"; top: 0; opacity:1; }
+.spring:hover:before { top: 30px; opacity: 0; }
+.spring:hover { background-color: #fe8f00; }
+
+.zen i, .zen:before { margin: 25px 0 0 5px; }
+.zen:before { content: "\5a"; top: 0; opacity:1; }
+.zen:hover:before { top: 30px; opacity: 0; }
+.zen:hover { background-color: #bf2f29; }
+
+.wordpress i, .wordpress:before { margin: 25px 0 0 5px;}
+.wordpress:before { content: "\30"; top: 0; opacity:1; }
+.wordpress:hover:before { top: 30px; opacity: 0; }
+.wordpress:hover { background-color: #4c8ab0; }
+
+.simfony i, .simfony:before { margin: 25px 0 0 5px; }
+.simfony:before { content: "\31"; top: 0; opacity:1; }
+.simfony:hover:before { top: 30px; opacity: 0; }
+.simfony:hover { background-color: #036568; }
+
+.magento i, .magento:before { margin: 25px 0 0 5px; }
+.magento:before { content: "\32"; top: 0; opacity:1; }
+.magento:hover:before { top: 30px; opacity: 0; }
+.magento:hover { background-color: #9251a2; }
+
+.perl i, .perl:before { margin: 25px 0 0 5px; }
+.perl:before { content: "\33"; top: 0; opacity:1; }
+.perl:hover:before { top: 30px; opacity: 0; }
+.perl:hover { background-color: #2f3842; }
+
+.gdrive i, .gdrive:before { margin: 25px 0 0 5px; }
+.gdrive:before { content: "\34"; top: 0; opacity:1; }
+.gdrive:hover:before { top: 30px; opacity: 0; }
+.gdrive:hover { background-color: #383838; }
+
+.dropbox i, .dropbox:before { margin: 25px 0 0 5px; }
+.dropbox:before { content: "\35"; top: 0; opacity:1; }
+.dropbox:hover:before { top: 30px; opacity: 0; }
+.dropbox:hover { background-color: #2c92dd; }
+
+.owncloud i, .owncloud:before { margin: 25px 0 0 5px; }
+.owncloud:before { content: "\36"; top: 0; opacity:1; }
+.owncloud:hover:before { top: 30px; opacity: 0; }
+.owncloud:hover { background-color: #5c7381; }
+
+.apacheant i, .apacheant:before { margin: 25px 0 0 7px; }
+.apacheant:before { content: "\37"; top: 0; opacity:1; }
+.apacheant:hover:before { top: 30px; opacity: 0; }
+.apacheant:hover { background-color: #d21309; }
 
 /* Tooltips
 ====================================*/

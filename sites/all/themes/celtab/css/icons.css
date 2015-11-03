@@ -1216,3 +1216,234 @@ ul.icons li [class*=" icon-"] {
 .icon-wordpress:before { content: '\77'; } /* 'w' */
 .icon-linkedin-rect:before { content: '\f31b'; } /* '?' */
 .icon-instagram:before { content: '\f31f'; } 
+
+/*flaticon*/
+@font-face {
+  font-family: "Flaticon";
+  src: url("../font/programspy.eot");
+  src: url("../font/programspy.eot#iefix") format("embedded-opentype"),
+  url("../font/programspy.woff") format("woff"),
+  url("../font/programspy.ttf") format("truetype"),
+  url("../font/programspy.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*Flaticon styles*/
+
+[class^="flaticon-"],
+[class*="flaticon-"] {
+  font-family: Flaticon;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.7em;
+  text-decoration: inherit;
+  -webkit-font-smoothing: antialiased;
+  display: inline;
+  width: auto;
+  height: auto;
+  line-height: normal;
+  vertical-align: -10%;
+  background-image: none;
+  background-position: 0% 0%;
+  background-repeat: repeat;
+  margin-top: 0;
+}
+
+
+.flaticon-open-source:before {
+  content: "\61";
+}
+.flaticon-open-hardware:before {
+  content: "\62";
+}
+.flaticon-ruby-on-rails:before {
+  content: "\63";
+}
+.flaticon-ruby:before {
+  content: "\64";
+}
+.flaticon-php:before {
+  content: "\65";
+}
+.flaticon-cpp:before {
+  content: "\66";
+}
+.flaticon-c:before {
+  content: "\67";
+}
+.flaticon-javascript:before {
+  content: "\68";
+}
+.flaticon-html5:before {
+  content: "\69";
+}
+.flaticon-css3:before {
+  content: "\6a";
+}
+.flaticon-java:before {
+  content: "\6b";
+}
+.flaticon-angular:before {
+  content: "\6c";
+}
+.flaticon-node-js:before {
+  content: "\6d";
+}
+.flaticon-jquery:before {
+  content: "\6e";
+}
+.flaticon-jquery-ui:before {
+  content: "\6f";
+}
+.flaticon-python:before {
+  content: "\70";
+}
+.flaticon-mongo-db:before {
+  content: "\71";
+}
+.flaticon-mysql:before {
+  content: "\72";
+}
+.flaticon-postgres:before {
+  content: "\73";
+}
+.flaticon-json:before {
+  content: "\74";
+}
+.flaticon-linux:before {
+  content: "\75";
+}
+.flaticon-samba:before {
+  content: "\76";
+}
+.flaticon-qt:before {
+  content: "\77";
+}
+.flaticon-raspberry-pi:before {
+  content: "\78";
+}
+.flaticon-evernote:before {
+  content: "\79";
+}
+.flaticon-h2:before {
+  content: "\7a";
+}
+.flaticon-play:before {
+  content: "\41";
+}
+.flaticon-hibernate:before {
+  content: "\42";
+}
+.flaticon-maven:before {
+  content: "\43";
+}
+.flaticon-jboss:before {
+  content: "\44";
+}
+.flaticon-tomcat:before {
+  content: "\45";
+}
+.flaticon-banana-pi:before {
+  content: "\46";
+}
+.flaticon-boostrap:before {
+  content: "\47";
+}
+.flaticon-shell-script:before {
+  content: "\48";
+}
+.flaticon-groovy:before {
+  content: "\49";
+}
+.flaticon-drupal:before {
+  content: "\4a";
+}
+.flaticon-cordova:before {
+  content: "\4b";
+}
+.flaticon-arduino:before {
+  content: "\4c";
+}
+.flaticon-android:before {
+  content: "\4d";
+}
+.flaticon-parallella:before {
+  content: "\4e";
+}
+.flaticon-git:before {
+  content: "\4f";
+}
+.flaticon-github:before {
+  content: "\50";
+}
+.flaticon-mantis:before {
+  content: "\51";
+}
+.flaticon-subversion:before {
+  content: "\52";
+}
+.flaticon-scala:before {
+  content: "\53";
+}
+.flaticon-backbone-js:before {
+  content: "\54";
+}
+.flaticon-require-js:before {
+  content: "\55";
+}
+.flaticon-django:before {
+  content: "\56";
+}
+.flaticon-codeignater:before {
+  content: "\57";
+}
+.flaticon-joomla:before {
+  content: "\58";
+}
+.flaticon-spring:before {
+  content: "\59";
+}
+.flaticon-zen:before {
+  content: "\5a";
+}
+.flaticon-wordpress:before {
+  content: "\30";
+}
+.flaticon-simfony:before {
+  content: "\31";
+}
+.flaticon-magento:before {
+  content: "\32";
+}
+.flaticon-perl:before {
+  content: "\33";
+}
+.flaticon-google-drive:before {
+  content: "\34";
+}
+.flaticon-dropbox:before {
+  content: "\35";
+}
+.flaticon-owncloud:before {
+  content: "\36";
+}
+.flaticon-apache-ant:before {
+  content: "\37";
+}
+
+.mysocial-icons li i {
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 20px;
+  font-size: 48px;
+  margin: 22px 0 0 4px;
+  width: auto;
+}
