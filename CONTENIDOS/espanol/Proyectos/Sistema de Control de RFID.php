@@ -9,16 +9,22 @@ Sistema de Control de RFID
     <p>El proyecto está diseñado en dos partes: Una vista del cliente y un servidor. En la vista del cliente, tenemos la responsabilidad de recoger los datos y enviarlo al servidor. En el otro lado, el servidor recibe los datos y persiste en una base de datos no SQL. Las datas recogidos se utilizan para los investigadores, para conocer el patrón de migración de los peces por especie. En el futuro, esto permitirá algunas posibilidades para poner en práctica la minería de datos y la inteligencia artificial, para las investigaciones más calificados.
     <p>En el lado del servidor, el proyecto se implementa utilizando Node.js y MongoDB. Estas tecnologías ofrecen todo un sistema de seguimiento a más hardware del cliente, sin perder rendimiento.
     <p>Tres investigadores de CELTAB están involucrados en este proyecto, trabajando para una mejor solución con las mejores tecnologías disponibles.</p>
-    <p><strong>Investigadores:</strong> Thiago Bitencourt; Gustavo Valiati; Luis Valdez</p>
+    <p><strong>Investigadores:</strong> Thiago Bitencourt; Gustavo Valiati; Luis Valdez; Mohamad Abu Ali</p>
 </div>
 <!-- Job Description -->
 <div class="four columns omega">
     <h3 class="headline">Detalles del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
     <ul style="margin: 2px 0 18px 0;" class="list-3">
-        <li>Branding</li>
-        <li>HTML5 / CSS3</li>
-        <li>Information Architecture</li>
-        <li>Programming</li>
+        <li>C++</li>
+        <li>Framework Qt</li>
+        <li>Raspberry PI</li>
+        <li>Linux ARM</li>
+        <li>Shel Script</li>
+        <li>Node JS</li>
+        <li>Angular JS</li>
+        <li>MongoDB</li>
+        <li>PostgreSQL</li>
+        <li>SQLite</li>
     </ul>
     <div class="clearfix"></div>
 </div> 
