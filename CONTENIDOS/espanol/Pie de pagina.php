@@ -1,4 +1,4 @@
-<div class="eight columns alpha">© Copyright 2015 by <a href="http://www.celtab.org.br">Celtab</a>. All Rights Reserved.</div>
+<div class="eight columns alpha">© Derechos de Autor 2015 por <a href="http://www.celtab.org.br">Celtab</a>.  Todos los Derechos Reservados.</div>
 <div class="eight columns omega">
   <ul class="social-icons-footer">
     <li><a href="https://plus.google.com/106476028040667380541"><i class="icon-gplus"></i></a></li>
