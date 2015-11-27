@@ -1,4 +1,3 @@
-Súper Wi-fi
 <div class="twelve columns alpha">
     <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
     <p>El Super Wi-Fi es un proyecto de desarrollo conjunto con la Universidad de Rice, que consta de varios esfuerzos de desarrollo de protocolo de software, hardware y de red diseñados para llevar las tecnologías de radio definidos por software cognitivas y flexibles para la maduración.</p>

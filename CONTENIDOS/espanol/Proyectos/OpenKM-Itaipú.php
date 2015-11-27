@@ -1,4 +1,3 @@
-OpenKM-Itaipú
 <div class="twelve columns alpha">
     <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
     <p>La casa de la energía de Itaipu fue en busca de un sistema managament de documentos (DMS) para acompañar la documentación de sus proyectos. Luego nos contactaron y se presentaron a ellos algunas posibles soluciones.</p>

@@ -1,4 +1,3 @@
-OwnCloud
 <div class="twelve columns alpha">
     <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
     <p>OwnCloud es un sistema de software para lo que comúnmente se denomina "alojamiento de archivos".</p>

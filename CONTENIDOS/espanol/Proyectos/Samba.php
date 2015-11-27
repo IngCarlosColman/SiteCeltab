@@ -1,4 +1,3 @@
-Samba 4
 <div class="twelve columns alpha">
     <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
     <p>Samba es un Software gratuito bajo la Licencia Pública General GNU, donde la primera versión del código fue lanzado en 1992 por Andrew Tridgell, para proporcionar servicios SMB / CIFS protocolos de red clientes de impresión y archivo. El nombre de Samba llegados de Server Message Block (SMB), el nombre del protocolo estándar utilizado por el sistema de archivos de Microsoft Windows Network.</p>

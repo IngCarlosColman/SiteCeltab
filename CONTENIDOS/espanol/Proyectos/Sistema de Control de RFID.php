@@ -1,6 +1,3 @@
-Sistema de Control de RFID
-
-
 <div class="twelve columns alpha">
     <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
     <p>Modernización del proceso de seguimiento de la migración de los peces río arriba por Piracema Canal de Itaipú. Celtab diseña mejoras en el proceso, que implica en la codificación, utilizando código abierto (Linux, C / C ++, Qt, etc) y hardwares abiertos (Raspberry Pi). El proyecto se encuentra en fase de desarrollo y en partes funcionales para proporcionar una solución. Este proyecto tiene el potencial de proporcionar soluciones a escala global. El repositorio de este proyecto se puede encontrar en esta página SourceForge.

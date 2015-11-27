@@ -1,4 +1,3 @@
-Sistema de Gestión de Fomento
 <div class="twelve columns alpha">
     <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
     <p>Sistema de Gestión de Fomento, tiene el objetivo principal de proporcionar herramientas para la gestión de las inversiones realizadas por FPTI en el fomento. A través de la persistencia de la información inherente a los proyectos de investigación y miembros involucrados, como investigadores y asesores. </p>

@@ -1,5 +1,3 @@
-OpenIMS (Open Integrado sistema de mensajería)
-
 <div class="twelve columns alpha">
     <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
     <p>Sistema Integrado desarrollado para apoyar los mensajes, alertas, encuestas, correo electrónico y otras formas de comunicación, con el objetivo de resolver los problemas que enfrentan muchos profesionales de analistas de apoyo, que han encontrado dificultades para comunicarse / alertar a los diversos departamentos que existen en el interior de una empresa de negocios, más específicamente ITAIPU. Este proyecto está siendo desarrollado utilizando la tecnología API de Java JMS 2.0 y JEE 7.</p>
