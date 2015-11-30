@@ -1,21 +1,22 @@
-OwnCloud
 <div class="twelve columns alpha">
-    <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
-    <p>OwnCloud es un sistema de software para lo que comúnmente se denomina "alojamiento de archivos".</p>
-	<p>OwnCloud ofrece acceso a sus datos a través de una interfaz web o WebDAV mientras que proporciona una plataforma para ver fácilmente, sincronizar y compartir a través de dispositivos, todo bajo su control. ownCloud arquitectura abierta es extensible a través de un sencillo pero potente API para aplicaciones y plugins y funciona con cualquier almacenamiento. Actualmente se hace una personalización de los clientes IOS - Windows / Linux y Android App.</p>
-
-    <p><strong>Investigadores:</strong> Carlos Colman</p>
+    <h3 class="headline">Descrição do Projeto</h3><span class="line"></span><div class="clearfix"></div>
+    <p>OwnCloud é um sistema de software para o que é comumente chamado de "hospedagem de arquivos".</p>
+	<p>OwnCloud fornece acesso aos seus dados através de uma interface web ou WebDAV, proporcionando uma plataforma para visualizar facilmente, sincronizar e compartilhar através de dispositivos, tudo sob seu controle. ownCloud arquitetura aberta é extensível através de uma API simples, mas poderosa para aplicativos e plugins e funciona com qualquer armazenamento.</p>
+    <p>Atualmente, é feito um personalizando os clientes IOS - Windows/Linux e Android App.
+    <p><strong>Pesquisador:</strong> Carlos Colman</p>
     <p><strong>Colaboradores:</strong> Jônios Costa Máximo; Mario Villagra; Douglas Gatti</p>
     
 </div>
 <!-- Job Description -->
 <div class="four columns omega">
-    <h3 class="headline">Detalles del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
+    <h3 class="headline">Detalhes do Projeto</h3><span class="line"></span><div class="clearfix"></div>
     <ul style="margin: 2px 0 18px 0;" class="list-3">
-        <li>Branding</li>
-        <li>HTML5 / CSS3</li>
-        <li>Information Architecture</li>
-        <li>Programming</li>
+         <li>C/C++</li>
+        <li>Ocjective C</li>
+        <li>SQLite</li>
+        <li>Android</li>
+        <li>Java SE</li>
+        <li>Shell Script</li>
     </ul>
     <div class="clearfix"></div>
 </div> 

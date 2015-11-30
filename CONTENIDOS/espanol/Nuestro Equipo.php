@@ -198,7 +198,29 @@
 						<li><a class="github" href="https://github.com/IngCarlosColman"><i class="icon-github"></i></a></li>
 					</ol>
 					<div class="clearfix"></div>
-				</li>												
+				</li>		
+
+					<li>
+					<img class="mediaholder team-img" src="/sites/all/themes/celtab/images/about-17.jpg" alt=""/>
+					<div class="team-name"><h5>Douglas Bernal Gatti</h5> <span>Investigador / Pesquisador / Researcher</span><span>31/05/2014 - Actualmente</span></div>
+					<div class="team-about"><p>Investigador en el Centro Latinoamericano de Tecnologías Abiertas (CELTAB) situado en el Parque Tecnológico de Itaipú (PTI). Licenciado en Ciencias de la Computación, egresado de la institución Anglo-Americano, Foz do Iguaçu, en 2013. Posgraduación en tecnologías Java, por la Universidad Tecnológica Federal de Paraná. Integra en proyectos de migración de Samba, OpenIMS y PIS</p></div>
+					<ol class="social-icons">
+						<li><a class="linkedin" href="https://br.linkedin.com/pub/douglas-bernal-gatti/a3/755/491"><i class="icon-linkedin"></i></a></li>
+						<li><a class="github" href="https://github.com/douglasbgatti"><i class="icon-github"></i></a></li>
+					</ol>
+					<div class="clearfix"></div>
+				</li>
+
+					<li>
+					<img class="mediaholder team-img" src="/sites/all/themes/celtab/images/about-18.jpg" alt=""/>
+					<div class="team-name"><h5>Fabio Oliveira Barboza</h5> <span>Investigador / Pesquisador / Researcher</span><span>01/10/2013 - Actualmente</span></div>
+					<div class="team-about"><p>Licenciatura en Sistemas de Información. Actualmente Investigador Celtab. Conocimiento y experiencia en entornos Linux, redes y desarrollo de software en lenguaje PHP, JavaScript, Java, Delphi. El conocimiento sobre el concepto de análisis y diseño orientado a objetos con notaciones UML y los procesos de desarrollo ágil. Proyectos desarrollados: personalización e implementación de módulos para la Gallery Project.</p></div>
+					<ol class="social-icons">
+						<li><a class="linkedin" href="https://br.linkedin.com/pub/fabio-barboza/a/aa9/a85"><i class="icon-linkedin"></i></a></li>
+						<li><a class="github" href="https://github.com/barboza2308"><i class="icon-github"></i></a></li>
+					</ol>
+					<div class="clearfix"></div>
+				</li>										
 
 			</ul>
 			<div class="clearfix"></div>

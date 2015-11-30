@@ -1,15 +1,14 @@
-OpenKM-Itaipú
 <div class="twelve columns alpha">
-    <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
-    <p>La casa de la energía de Itaipu fue en busca de un sistema managament de documentos (DMS) para acompañar la documentación de sus proyectos. Luego nos contactaron y se presentaron a ellos algunas posibles soluciones.</p>
-	<p>Una de las posibles soluciones fue la OpenKM entre otros. Y este programa cumplió completamente sus necesidades.</p>
-	<p>OpenKM es una aplicación de gestión de documentos basado en web que utilizan estándares y tecnologías Open Source. OpenKM Proporciona capacidades de gestión de documentos, incluyendo el seguimiento y archivo de historial de versiones, metadatos, digitalización, flujo de trabajo, la búsqueda, y más.</p>
-	<p>El celtab ayudó a migrar a esta plataforma y actualmente está a cargo del mantenimiento del software.</p>
-    <p><strong>Investigadores:</strong> Mario Villagra</p>    
+    <h3 class="headline">Descrição do Projeto</h3><span class="line"></span><div class="clearfix"></div>
+    <p>A casa de energia de Itaipu foi em busca de um sistema de gerenciamento de documentos (DMS) para acompanhar a documentação de seus projetos. Em seguida, eles nos contatou e foram apresentados a eles algumas soluções possíveis.</p>
+	<p>Uma das possíveis soluções foi o OpenKM entre outros. E este software completamente cumprido as suas necessidades.</p>
+	<p>OpenKM é um aplicativo de gerenciamento de documentos baseado na web que usam padrões e tecnologias Open Source. OpenKM Fornece recursos de gerenciamento de documento completo, incluindo acompanhamento e histórico de versão de arquivo, metadados, digitalização, fluxo de trabalho, pesquisa e muito mais.</p>
+	<p>O celtab ajudou a migrar para esta plataforma e atualmente é responsável pela manutenção de software.</p>
+    <p><strong>Pesquisador:</strong> Mario Villagra</p>    
 </div>
 <!-- Job Description -->
 <div class="four columns omega">
-    <h3 class="headline">Detalles del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
+    <h3 class="headline">Detalhes do Projeto</h3><span class="line"></span><div class="clearfix"></div>
     <ul style="margin: 2px 0 18px 0;" class="list-3">
         <li>JavaEE</li>
         <li>Tomcat</li>

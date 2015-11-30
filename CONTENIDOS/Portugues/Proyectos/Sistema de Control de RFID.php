@@ -1,19 +1,16 @@
-Sistema de Control de RFID
-
-
 <div class="twelve columns alpha">
-    <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
-    <p>Modernización del proceso de seguimiento de la migración de los peces río arriba por Piracema Canal de Itaipú. Celtab diseña mejoras en el proceso, que implica en la codificación, utilizando código abierto (Linux, C / C ++, Qt, etc) y hardwares abiertos (Raspberry Pi). El proyecto se encuentra en fase de desarrollo y en partes funcionales para proporcionar una solución. Este proyecto tiene el potencial de proporcionar soluciones a escala global. El repositorio de este proyecto se puede encontrar en esta página SourceForge.
-    <p>Piracema o también Pirasema es el nombre dado a la época de desove de los peces, cuando nadan río arriba a sus cabeceras para desovar. El término tiene su origen en la lengua tupí y significa "salida de los peces", a través de la unión de los términos Pirá ("pez") y SEM ("output")
-    <p>Esta investigación tiene como enfocar la creación de un sistema de seguimiento RFID, pero no sólo para la supervisión de pescado. Así, el proyecto fue diseñado y desarrollado para asistir a otros casos de uso en todo el mundo. El sistema está construido por módulos y esto permite cambiar algunas tecnologías. Con estas posibilidades, el proyecto se puede utilizar para resolver cualquier otra situación, en relación con el control de RFID.
-    <p>El proyecto está diseñado en dos partes: Una vista del cliente y un servidor. En la vista del cliente, tenemos la responsabilidad de recoger los datos y enviarlo al servidor. En el otro lado, el servidor recibe los datos y persiste en una base de datos no SQL. Las datas recogidos se utilizan para los investigadores, para conocer el patrón de migración de los peces por especie. En el futuro, esto permitirá algunas posibilidades para poner en práctica la minería de datos y la inteligencia artificial, para las investigaciones más calificados.
-    <p>En el lado del servidor, el proyecto se implementa utilizando Node.js y MongoDB. Estas tecnologías ofrecen todo un sistema de seguimiento a más hardware del cliente, sin perder rendimiento.
-    <p>Tres investigadores de CELTAB están involucrados en este proyecto, trabajando para una mejor solución con las mejores tecnologías disponibles.</p>
-    <p><strong>Investigadores:</strong> Thiago Bitencourt; Gustavo Valiati; Luis Valdez; Mohamad Abu Ali</p>
+    <h3 class="headline">Descrição do Projeto</h3><span class="line"></span><div class="clearfix"></div>
+    <p>Modernização do processo de acompanhamento da migração dos peixes rio acima de sobre o Canal da Piracema em Itaipu. Melhorias no projeto Celtab no processo, que envolve codificação, usando open source (Linux, C / C ++, Qt, etc) e hardware aberto (Raspberry Pi). O projeto está em desenvolvimento e partes funcionais para proporcionar uma solução. Este projeto tem o potencial de fornecer soluções em escala global. O repositório do projeto podem ser encontradas nesta página SourceForge.
+    <p>Piracema ou Pirasema também é o nome dado ao período de desova dos peixes, quando eles sobem os rios para suas cabeceiras para desovar. O termo tem sua origem na língua tupi e significa "saída dos peixes", através da junção dos termos pirá ("peixe") e sema ("saída").
+    <p>Esta pesquisa tem como foco a criação de um sistema de monitoramento de RFID, mas não só para o monitoramento de peixes. Assim, o projeto foi concebido e desenvolvido para atender a outros casos de uso em todo o mundo. O sistema é construído por módulos e isso permite alterar algumas tecnologias. Com estas possibilidades, o projeto pode ser usado para resolver qualquer outra situação, relacionada com o monitoramento de RFID.
+    <p>O projeto foi concebido em duas partes: uma visão do cliente e um servidor. Na visão do cliente, temos a responsabilidade de coletar os dados e enviá-lo para o servidor. Por outro lado, o servidor recebe os dados e persiste numa base de dados de não-SQL. As datas recolhidos são usados para os investigadores, para aprender o padrão de migração de peixes por espécie. No futuro, isso vai permitir algumas possibilidades para implementar a mineração de dados e inteligência artificial, para pesquisas mais qualificadas.
+    <p>No lado do servidor, o projeto é implementado usando Node.js e MongoDB. Estas tecnologias oferece todo um sistema de monitoramento mais hardware do cliente, sem perder o desempenho.
+    <p>Cuatro pesquisadores do CELTAB estão envolvidos neste projeto, trabalhando para uma solução melhor com as melhores tecnologias disponíveis.</p>
+    <p><strong>Pesquisadores:</strong> Thiago Bitencourt; Gustavo Valiati; Luis Valdez; Mohamad Abu Ali</p>
 </div>
 <!-- Job Description -->
 <div class="four columns omega">
-    <h3 class="headline">Detalles del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
+    <h3 class="headline">Detalhes do Projeto</h3><span class="line"></span><div class="clearfix"></div>
     <ul style="margin: 2px 0 18px 0;" class="list-3">
         <li>C++</li>
         <li>Framework Qt</li>

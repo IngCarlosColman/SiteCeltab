@@ -1,14 +1,13 @@
-GERCI
 <div class="twelve columns alpha">
-    <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
-    <p>El proyecto Gerci (Gerenciador de Coordendas Itaipú), tiene como objetivo ofrecer una plataforma de servicios para la transformación de coordenadas.</p>
-    <p>El Celtab, basado en una transformación de algorítmo realizando código de adaptación existentes para actuar como REST sirvió para hacer las transformación.</p>
-    <p>El Celtab también desarrolló un prototipo web para validar el uso de la plataforma, proporcionando una herramienta inicial para que los usuarios puedan utilizar el servicio.</p>
-    <p><strong>Investigadores:</strong> Mohamad Abu Ali; Thiago R. M. Bitencourt </p>
+    <h3 class="headline">Descrição do Projeto</h3><span class="line"></span><div class="clearfix"></div>
+    <p>O projeto Gerci (Coordenar Gerenciador Itaipu) tem como objetivo fornecer uma plataforma de serviços para a transformação de coordenadas.
+    <p>O Celtab, com base no código de uma adaptação existente algoritmo de processamento de realizar a agir como descanso serviu para fazer a transformação.
+    <p>O Celtab web também desenvolveu um protótipo para validar o uso da plataforma, proporcionando uma ferramenta inicial para os usuários a usar o serviço.
+    <p><strong>Pesquisadores:</strong> Mohamad Abu Ali; Thiago R. M. Bitencourt </p>
 </div>
 <!-- Job Description -->
 <div class="four columns omega">
-    <h3 class="headline">Detalles del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
+    <h3 class="headline">Detalhes do Projeto</h3><span class="line"></span><div class="clearfix"></div>
     <ul style="margin: 2px 0 18px 0;" class="list-3">
         <li>Shell Script</li>
         <li>Linux ARM</li>

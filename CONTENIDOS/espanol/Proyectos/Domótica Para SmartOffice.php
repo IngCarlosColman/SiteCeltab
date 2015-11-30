@@ -1,14 +1,14 @@
 <div class="twelve columns alpha">
-    <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
-    <p>El término domótica proviene de la unión de la palabra latina "domus" (casa) con "robótico" y es el estudio de la realización de un ambiente en el hogar inteligente. Es funcionalidades están ya regar las plantas y el control de la iluminación ambiental de la gestión de la red eléctrica de una casa o establecimiento.</p>
-	<p>Esta línea de investigación se centra en el estudio y desarrollo de una oficina inteligente, controlado de forma remota a través de aplicaciones web y los teléfonos inteligentes.</p>
-	<p>Aunque una gran variedad de aplicaciones están disponibles en el mercado de TI, siendo ya sea libre o propietario, este proyecto se centra en el concepto de Smart Grid, es decir, obtener un mejor control energético a través de la automatización, el establecimiento de una conexión bidireccional entre la eléctrica caja con la oficina de dispositivos y sensores. Todas las soluciones tecnológicas están abiertas ya un bajo costo para la comunidad.</p>
-	<p><strong>Investigadores:</strong> Kenner Alan Kliemann; Augusto Dantas; Marcos Teixeira </p>
+    <h3 class="headline">Descrição do Projeto</h3><span class="line"></span><div class="clearfix"></div>
+    <p>O termo domótica é a partir da união da palavra latina "Domus" (casa) com "robótica" e é o estudo da realização de um ambiente de casa inteligente. É funcionalidades são desde regar plantas e controlar a iluminação ambiente para a gestão da rede elétrica de uma casa ou estabelecimento.</p>
+	<p>Esta linha de pesquisa está focada no estudo e desenvolvimento de um escritório inteligente, controlado remotamente através de aplicações web e smartphones.
+	<p>Embora uma grande variedade de aplicações estão disponíveis no mercado de TI, sendo livre ou proprietário, este projeto está focado no conceito de Smart Grid, em outras palavras, obter melhor controle energético por meio da automação, estabelecendo uma conexão bidirecional entre o elétrico caixa com a dispositivos e sensores de escritório. Todas as soluções tecnológicas estão abertas e a um baixo custo para a comunidade.
+	<p><strong>Pesquisadores:</strong> Kenner Alan Kliemann; Augusto Dantas; Marcos Teixeira </p>
  
 </div>
 <!-- Job Description -->
 <div class="four columns omega">
-    <h3 class="headline">Detalles del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
+    <h3 class="headline">Detalhes do Projeto</h3><span class="line"></span><div class="clearfix"></div>
     <ul style="margin: 2px 0 18px 0;" class="list-3">
         <li>Arduino</li>
         <li>Micro Controlador AVR</li>

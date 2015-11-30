@@ -11,10 +11,12 @@
 <div class="four columns omega">
     <h3 class="headline">Detalles del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
     <ul style="margin: 2px 0 18px 0;" class="list-3">
-        <li>Branding</li>
-        <li>HTML5 / CSS3</li>
-        <li>Information Architecture</li>
-        <li>Programming</li>
+        <li>C/C++</li>
+        <li>Ocjective C</li>
+        <li>SQLite</li>
+        <li>Android</li>
+        <li>Java SE</li>
+        <li>Shell Script</li>
     </ul>
     <div class="clearfix"></div>
 </div> 

@@ -1,12 +1,11 @@
-Manipulación de datos del IBGE y PNAD (PIS - Plataforma de Indicadores Sociales)
 <div class="twelve columns alpha">
-    <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
-    <p>Un prototipo de una aplicación web desarrollada para la integración de los datos ofrecidos por el IBGE (Instituto brasileño de Geografía y Estadística). Esta aplicación web inicialmente ofrece una manera fácil de ver y administrar estos datos, que hasta el día de hoy todavía se está realizando de forma manual. Esta aplicación tiene como objetivo llevar a cabo todo el trabajo manual que se está haciendo para estos datos y automatizar esta tarea, ofreciendo estadísticas cálculos, consultas y facilitar la visualización de datos a través de tablas y vistas de tabla.</p>
-    <p><strong>Investigadores:</strong> Jônios Costa Máximo; Douglas Gatti </p>
+    <h3 class="headline">Descrição do Projeto</h3><span class="line"></span><div class="clearfix"></div>
+    <p>Um protótipo de uma aplicação web desenvolvida para integrar os dados oferecidos a partir de IBGE (Instituto brasileiro de Geografia e Estatística). Esta aplicação web inicialmente oferece uma maneira mais fácil de visualizar e gerenciar esses dados, o que até hoje ainda está sendo realizado manualmente. Esta aplicação tem como objetivo tirar todo o trabalho manual que está sendo feito para esses dados e automatizar essa tarefa, oferecendo cálculos estatísticos, consultas e dados que facilita a visualização através de gráficos e visualizações de tabela.</p>
+    <p><strong>Pesquisadores:</strong> Jônios Costa Máximo; Douglas Gatti </p>
 </div>
 <!-- Job Description -->
 <div class="four columns omega">
-    <h3 class="headline">Detalles del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
+    <h3 class="headline">Detalhes do Projeto</h3><span class="line"></span><div class="clearfix"></div>
     <ul style="margin: 2px 0 18px 0;" class="list-3">
         <li>JavaEE</li>
         <li>Pentaho</li>

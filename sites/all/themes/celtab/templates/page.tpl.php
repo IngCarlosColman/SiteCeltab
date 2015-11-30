@@ -89,32 +89,36 @@
       </div>
     </div>
   <?php endif; ?>
-  <?php if ($title): ?>
-    <?php if (!drupal_is_front_page()): ?>
-      <?php if ($title || $breadcrumb): ?>  
-        <section id="titlebar">
+  
+
+<!-- <?php if ($title): ?> -->
+    <!-- <?php if (!drupal_is_front_page()): ?> -->
+      <!-- <?php if ($title || $breadcrumb): ?>   -->
+        <!-- <section id="titlebar"> -->
           <!-- Container -->
-          <div class="container">
+        <!-- <div class="container"> -->
 
-            <div class="eight columns">
-              <h2><?php print $title; ?></h2>
-            </div>
+            <!-- <div class="eight columns"> -->
+              <!-- <h2><?php print $title; ?></h2> -->
+            <!-- </div> -->
 
 
-            <div class="eight columns">
-              <?php if ($breadcrumb): ?>
-                <nav id="breadcrumbs">
-                  <?php print $breadcrumb; ?>
-                </nav>
-              <?php endif; ?>
-            </div>
+            <!-- <div class="eight columns"> -->
+              <!-- <?php if ($breadcrumb): ?> -->
+                <!-- <nav id="breadcrumbs"> -->
+                  <!-- <?php print $breadcrumb; ?> -->
+                <!-- </nav> -->
+              <!-- <?php endif; ?> -->
+            <!-- </div> -->
 
-          </div>
+          <!-- </div> -->
           <!-- Container / End -->
-        </section>
-      <?php endif; ?>
-    <?php endif; ?>
-  <?php endif; ?>
+        <!-- </section> -->
+      <!-- <?php endif; ?> -->
+    <!-- <?php endif; ?> -->
+  <!-- <?php endif; ?> -->
+
+  
 
   <?php if (drupal_is_front_page() && !theme_get_setting('homepage_title')): ?>
     <?php if ($title || $breadcrumb): ?>  

@@ -1,13 +1,12 @@
-Sistema de Gestión de Fomento
 <div class="twelve columns alpha">
-    <h3 class="headline">Descripción del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
-    <p>Sistema de Gestión de Fomento, tiene el objetivo principal de proporcionar herramientas para la gestión de las inversiones realizadas por FPTI en el fomento. A través de la persistencia de la información inherente a los proyectos de investigación y miembros involucrados, como investigadores y asesores. </p>
-    <p>Control de los recursos dedicados a la labor de promoción permitirá arriba y puede proporcionar datos claros y objetivos, la organización por región (país, estado, ciudad), los investigadores involucrados, rectores y los resultados de cada proyecto. La creación de una web, usabilidad rica interfaz que proporciona un fácil interacción con los usuarios del Sistema de Desarrollo de la Gestión. Simplificar el proceso de inscripción de nueva información, así como la extracción de informes detallados que pueden expresar de manera clara y objetiva los resultados de los esfuerzos de cada encuesta, ingeniero e investigador, lo que refleja los resultados de los recursos para cada proyecto.</p>
-    <p><strong>Investigadores:</strong> Jônios Costa Máximo, Augusto Dantas, Arturo Garcete, Kenner Alan Kliemann, Aimam Amin</p>
+    <h3 class="headline">Descrição do Projeto</h3><span class="line"></span><div class="clearfix"></div>
+    <p>Sistema de Gestão de Fomento, tem o objetivo de fornecer ferramentas para a gestão de investimentos promocionadas pelo FPTI no Fomento. Com persistência inerente a projetos de pesquisa e envolveu membros, pesquisadores e consultores. </p>
+    <p>Controle dos recursos dedicados à promoção, autorizados a prestar informações claras e objetivas, organização por região (país, estado, cidade), os pesquisadores envolvidos, os gerentes e os resultados de cada projeto. A criação de um website, com uma interface rica que fornece fácil interação com os usuários do Sistema de Gestão de Desenvolvimento. Simplificar o processo de registo de novas informações, bem como a extração de relatórios detalhados que podem ser expressas de forma clara e objectivamente os resultados dos esforços de cada inquérito, entre engenheiros e pesquisadores, refletindo os resultados dos recursos para cada projeto.</p>
+    <p><strong>Pesquisadores:</strong> Jônios Costa Máximo, Augusto Dantas, Arturo Garcete, Kenner Alan Kliemann, Aimam Amin</p>
 </div>
 <!-- Job Description -->
 <div class="four columns omega">
-    <h3 class="headline">Detalles del Proyecto</h3><span class="line"></span><div class="clearfix"></div>
+    <h3 class="headline">Detalhes do Projeto</h3><span class="line"></span><div class="clearfix"></div>
     <ul style="margin: 2px 0 18px 0;" class="list-3">
         <li>Java EE 7 (JPA 2.1, JAX-RS, CDI)</li>
         <li>PostgreSQL</li>
