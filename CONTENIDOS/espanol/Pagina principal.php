@@ -1,4 +1,4 @@
-<img  src="/sites/all/themes/celtab/images/training-img.png" alt=""/>
+<img class="mediaholder team-img" src="/sites/all/themes/celtab/images/training-img.png" alt=""/>
 	<div class="featured-boxes homepage">
 		<div class="one-third column alpha">
 			<!-- Featured Box -->

@@ -245,7 +245,7 @@
 
   #header #logo {
     width: 124px;
-    left: 0;
+    left: -110px;
     right: 0;
     position: absolute;
     margin: 0 auto;
@@ -289,7 +289,7 @@
   }
 
   a.menu-trigger,
-  .search-trigger { padding: 25px 30px; }
+  .search-trigger { padding: 25px 0px; }
 
   a.menu-trigger { padding-left:0; }
   .search-trigger { padding-right:0; }
@@ -4143,7 +4143,7 @@ blockquote {
 
 .get-in-touch li i {
   float: left;
-  margin: 2px 0 0 0;
+  margin: 0 0 0 0;
   color: #a6a6a6;
 }
 
